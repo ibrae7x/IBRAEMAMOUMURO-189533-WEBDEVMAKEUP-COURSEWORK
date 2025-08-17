@@ -1,6 +1,6 @@
 # IBRAE MAKEUP - PHP User Management System
 
-## 🎯 **Project Overview**
+##  **Project Overview**
 
 **IBRAE MAKEUP** is a comprehensive, modern PHP OOP-based user management and article publishing system with role-based access control and stunning UI design.
 
@@ -10,16 +10,16 @@
 
 ---
 
-## 🚀 **Key Features**
+##  **Key Features**
 
-### **🔐 User Management System**
+### ** User Management System**
 - **Three User Types**: Super_User, Administrator, Author
 - **Role-Based Access Control**: Different permissions for each user type
 - **Secure Authentication**: Password hashing and session management
 - **User CRUD Operations**: Complete user lifecycle management
 - **Profile Management**: Users can update profiles and change passwords
 
-### **📝 Article Management Platform**
+### ** Article Management Platform**
 - **Article Publishing**: Create, edit, and manage articles
 - **Content Management**: Rich text content with excerpts
 - **Author Attribution**: Articles linked to authors
@@ -63,7 +63,7 @@ IBRAE MAKEUP/
 │   └── js/
 │       └── script.js          # Interactive functionality
 ├── config/
-│   ├── connection.php         # Database connection (Singleton)
+│   ├── connection.php         # Database connection 
 │   └── constants.php          # Application constants
 ├── dashboard/
 │   ├── dashboard.php          # Main dashboard
@@ -153,24 +153,24 @@ http://localhost/IBRAE MAKEUP
 
 ## 👤 **User Roles & Permissions**
 
-### **🔑 Super User**
+### ** Super User**
 - Manage all users (CRUD operations)
 - Access all system functions
 - System administration privileges
 
-### **⚙️ Administrator**
+### ** Administrator**
 - Manage authors (CRUD operations on authors only)
 - View all articles
 - Limited administrative access
 
-### **✍️ Author**
+### ** Author**
 - Manage own articles (CRUD operations)
 - Update own profile
 - Publish and manage content
 
 ---
 
-## 🎨 **UI/UX Features**
+##  **UI/UX Features**
 
 ### **Modern Design Elements**
 - **Glassmorphism Login**: Semi-transparent form with blur effects
@@ -189,7 +189,7 @@ http://localhost/IBRAE MAKEUP
 
 ---
 
-## 🔒 **Security Measures**
+##  **Security Measures**
 
 - **Password Hashing**: PHP `password_hash()` and `password_verify()`
 - **Session Security**: Timeout management and secure handling
@@ -200,7 +200,7 @@ http://localhost/IBRAE MAKEUP
 
 ---
 
-## 📱 **Responsive Design**
+##  **Responsive Design**
 
 Fully responsive and optimized for:
 - **Desktop Computers**
@@ -210,7 +210,7 @@ Fully responsive and optimized for:
 
 ---
 
-## 🎯 **Key Achievements**
+##  **Key Achievements**
 
 ✅ **Modern PHP OOP Architecture**  
 ✅ **Comprehensive User Management**  
@@ -223,7 +223,7 @@ Fully responsive and optimized for:
 
 ---
 
-## 📊 **Project Statistics**
+##  **Project Statistics**
 
 - **Programming Language**: PHP (OOP)
 - **Total Files**: 23+
@@ -235,7 +235,7 @@ Fully responsive and optimized for:
 
 ---
 
-## 🤝 **Academic Information**
+##  **Academic Information**
 
 **Course**: Web Development Makeup Coursework  
 **Student**: Ibrae Mamo Umuro  
@@ -245,12 +245,7 @@ Fully responsive and optimized for:
 
 ---
 
-## 📄 **License**
+
 
 This project is developed as part of academic coursework requirements.
 
----
-
-**Developed with ❤️ for Web Development Excellence**
-
-*Demonstrating modern web development practices with PHP, MySQL, and responsive design.*
